@@ -24,5 +24,5 @@ To stop command from executing, hold ctrl + c
 'gift' -> Accepts gifts and missions.
 'transfer' -> Generates transfer code.
 'capacity' -> Increase card capacity by +5.
-'name' -> Change account name.
+'name' -> Changes account name.
 'refresh' -> Reauthenticates the client.
